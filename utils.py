@@ -1,0 +1,4 @@
+Device = "CUDA"
+LEARNING_RATE  = 2e-4
+BATCH_SIZE = 56
+EPOCHS = 250
