@@ -58,5 +58,5 @@ Our Cross-Attention Based Large Audio Model generates a probability distribution
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/cross-attention-audio-model.git
-cd cross-attention-audio-model
+git clone https://github.com/developerdhruv/Cross-Attention-Based-Large-Audio-Model
+cd Cross-Attention-Based-Large-Audio-Model
